@@ -1,0 +1,74 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit secrets
+
+06_app/.streamlit/secrets.toml
+.streamlit/secrets.toml
+
+# Environment variables
+
+.env
+.env.*
+
+# Generated documents
+
+06_app/generated_documents/*
+!06_app/generated_documents/.gitkeep
+
+# Temporary files
+
+06_app/temp/*
+!06_app/temp/.gitkeep
+
+# Local database backups
+
+*.backup
+*.dump
+*.bak
+*.sql.backup
+
+# Logs
+
+*.log
+logs/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+
+.vscode/
+.idea/
+
+# Excel temporary files
+
+~$*.xlsx
+~$*.xlsm
+~$*.docx
+
+# Generated Word/PDF files outside generated_documents
+
+*.tmp
+~$*
+
+# Keep demo files and templates
+
+!demo_files/demo_counterparty_requisites.xlsx
+!06_app/templates/demo/*.docx
+!07_docs/*.pdf

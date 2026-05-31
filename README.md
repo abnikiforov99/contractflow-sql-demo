@@ -351,6 +351,50 @@ http://localhost:8501
 
 ---
 
+## Скриншоты demo-сценария
+
+### 1. Проверка подключения
+
+![Проверка подключения](07_docs/screenshots/scrn1_connection.png)
+
+### 2. Загрузка реквизитов из Excel
+
+![Загрузка реквизитов](07_docs/screenshots/scrn2_import_req.png)
+
+### 3. Валидация и импорт реквизитов в core
+
+![Валидация и импорт](07_docs/screenshots/scrn3_validation_import_to_core.png)
+
+### 4. Проверка полноты реквизитов контрагента
+
+![Полнота реквизитов](07_docs/screenshots/scrn4_reqfull.png)
+
+### 5. Создание договорного документа
+
+![Создание документа](07_docs/screenshots/scrn5_create_doc.png)
+
+### 6. Очередь генерации документов
+
+![Очередь генерации](07_docs/screenshots/scrn6_generation_queue.png)
+
+### 7. Генерация PDF/DOCX
+
+![Генерация документов](07_docs/screenshots/scrn7_doc_generation.png)
+
+### 8. Реестр документов после генерации
+
+![Реестр документов](07_docs/screenshots/scrn8_registry.png)
+
+### 9. Обновление статуса документа
+
+![Обновление статуса](07_docs/screenshots/scrn9_statuses.png)
+
+### 10. Итоговый реестр документов
+
+![Итоговый реестр](07_docs/screenshots/scrn10_registry_final.png)
+
+---
+
 ## Ограничения MVP
 
 Demo-версия является локальным MVP.

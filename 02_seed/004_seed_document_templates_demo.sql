@@ -38,7 +38,7 @@ SELECT
     le.legal_entity_id,
     dt.document_type_id,
     'ССК основной договор тест',
-    '06_app/templates/SSK/SSK_test_template_1.docx',
+    'templates/SSK/SSK_test_template_1.docx',
     '2025-03-03',
     true,
     'Актуальная проформа договора ССК'
@@ -72,7 +72,7 @@ SELECT
     le.legal_entity_id,
     dt.document_type_id,
     'ВД основной договор тест',
-    '06_app/templates/VD/VD_test_template_1.docx',
+    'templates/VD/VD_test_template_1.docx',
     '2025-03-03',
     true,
     'Актуальная проформа договора ВД'
